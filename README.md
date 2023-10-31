@@ -10,4 +10,4 @@
 - numpy               1.24.3
 - opencv-python       4.1.2.30
 
-** 注意：opencv-python版本不能太高，否则报错 **
+* 注意：opencv-python版本不能太高，否则报错 *
