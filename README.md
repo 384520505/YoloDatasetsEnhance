@@ -4,48 +4,10 @@
 ### 运行环境
 - 系统：MAC
 - Conda虚拟环境软件包配置：
-  Package             Version
-------------------- ---------
-Brotli              1.0.9
-certifi             2023.7.22
-cffi                1.15.1
-charset-normalizer  2.0.4
-contourpy           1.0.5
-cryptography        41.0.3
-cycler              0.11.0
-fonttools           4.25.0
-idna                3.4
-imageio             2.31.6
-imgaug              0.4.0
-importlib-resources 6.1.0
-kiwisolver          1.4.4
-lazy_loader         0.3
-matplotlib          3.7.2
-munkres             1.1.4
-networkx            3.1
-numpy               1.24.3
-opencv-python       4.1.2.30
-packaging           23.1
-Pillow              10.0.1
-pip                 23.3
-platformdirs        3.10.0
-pooch               1.7.0
-pycparser           2.21
-pyOpenSSL           23.2.0
-pyparsing           3.0.9
-PySocks             1.7.1
-python-dateutil     2.8.2
-PyWavelets          1.4.1
-requests            2.31.0
-scikit-image        0.21.0
-scipy               1.10.1
-setuptools          68.0.0
-shapely             2.0.2
-six                 1.16.0
-tifffile            2023.7.10
-tornado             6.3.3
-urllib3             1.26.18
-wheel               0.41.2
-zipp                3.11.0
+- Package             Version
+- ------------------- ---------
+- imgaug              0.4.0
+- numpy               1.24.3
+- opencv-python       4.1.2.30
 
 ** 注意：opencv-python版本不能太高，否则报错 **
